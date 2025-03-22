@@ -1,0 +1,48 @@
+
+/* تعيين خلفية سوداء */
+.background-container {
+    background-color: #000; /* خلفية سوداء */
+    height: 660vh; /* تغطي كامل الشاشة */
+    padding: 10px;
+    color: white; /* الكتابة باللون الأبيض */
+    text-align: center;
+    font-family: 'Amiri', serif;
+    background-size: cover ; 
+    background-repeat: repeat  ;
+     /* استخدام خط أميري */
+}
+
+/* تنسيق العنوان */
+.title {
+    font-size: 2em;
+    color: #FFD700; /* اللون الأصفر الملكي */
+    margin-top: 100px;
+}
+
+/* تنسيق المحتوى */
+.content {
+    margin-top: 50px;
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+/* تنسيق الجزء */
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* تنسيق زر العودة */
+.back-button {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 20px;background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-button:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+```
