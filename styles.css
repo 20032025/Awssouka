@@ -27,10 +27,10 @@ h2 {
 }
 /* تعيين خلفية سوداء */
 .part2 {
-    background-color: #000; /* خلفية سوداء */
+    background-color: #708090; /* خلفية سوداء */
     height: 850vh; /* تغطي كامل الشاشة */
-    padding: 10px;
-    color: white; /* الكتابة باللون الأبيض */
+    padding: 20px;
+    color: #F7C6C1; /* الكتابة باللون الأبيض */
     text-align: center;
     font-family: 'Amiri', serif;
     background-size: cover ; 
