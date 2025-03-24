@@ -28,7 +28,7 @@ h2 {
 /* تعيين خلفية سوداء */
 .part2 {
     background-color: #000; /* خلفية سوداء */
-    height: 750vh; /* تغطي كامل الشاشة */
+    height: 850vh; /* تغطي كامل الشاشة */
     padding: 10px;
     color: white; /* الكتابة باللون الأبيض */
     text-align: center;
