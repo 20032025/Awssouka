@@ -46,3 +46,17 @@ h2 {
     background-color: rgba(0, 0, 0, 0.9);
 }
 ```
+.part2 {
+    background-color: #708090; /* خلفية سوداء */
+    height: 730vh; /* تغطي كامل الشاشة */
+    padding: 10px;
+    color: white; /* الكتابة باللون الأبيض */
+    text-align: center; 
+    font-family: 'Amiri', serif;
+    background-size: cover ; 
+    background-repeat: repeat  ; }
+.contentoart2 {
+    marjin-top:50px;
+    font-size: 1.2em;
+    line-height:1.8;
+    }
