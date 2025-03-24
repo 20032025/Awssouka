@@ -12,12 +12,6 @@
      /* استخدام خط أميري */
 }
 
-/* تنسيق العنوان */
-.title {
-    font-size: 2em;
-    color: #FFD700; /* اللون الأصفر الملكي */
-    margin-top: 100px;
-}
 
 /* تنسيق المحتوى */
 .content {
@@ -31,32 +25,25 @@ h2 {
     font-size: 2em;
     margin-bottom: 20px;
 }
-
-/* تنسيق زر العودة */
-.back-button {
-    display: inline-block;
-    margin-top: 30px;
-    padding: 10px 20px;background-color: rgba(0, 0, 0, 0.7);
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.back-button:hover {
-    background-color: rgba(0, 0, 0, 0.9);
-}
-```
+/* تعيين خلفية سوداء */
 .part2 {
-    background-color: #708090; /* خلفية سوداء */
-    height: 730vh; /* تغطي كامل الشاشة */
+    background-color: #000; /* خلفية سوداء */
+    height: 660vh; /* تغطي كامل الشاشة */
     padding: 10px;
     color: white; /* الكتابة باللون الأبيض */
-    text-align: center; 
+    text-align: center;
     font-family: 'Amiri', serif;
     background-size: cover ; 
-    background-repeat: repeat  ; }
+    background-repeat: repeat  ;
+     /* استخدام خط أميري */
+}
+
+
+/* تنسيق المحتوى */
 .contentpart2 {
-    marjin-top:50px;
+    margin-top: 50px;
     font-size: 1.2em;
-    line-height:1.8;
-    }
+    line-height: 1.8;
+}
+
+
