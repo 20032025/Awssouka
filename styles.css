@@ -46,4 +46,25 @@ h2 {
     line-height: 1.8;
 }
 
+.part3 {
+    background-color: #708090; /* خلفية سوداء */
+    height: 850vh; /* تغطي كامل الشاشة */
+    padding: 20px;
+    color: #F7C6C1; /* الكتابة باللون الأبيض */
+    text-align: center;
+    font-family: 'Katibeh', serif;
+    background-size: cover ; 
+    background-repeat: repeat  ;
+     /* استخدام خط أميري */
+}
+
+
+/* تنسيق المحتوى */
+.00part2 {
+    margin-top: 50px;
+    font-size: 1em;
+    line-height: 1.8;
+}
+
+
 
